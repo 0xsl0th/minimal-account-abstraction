@@ -16,6 +16,12 @@ Both implementations demonstrate:
 - Execution of arbitrary transactions
 - Gas payment handling
 
+## Account Abstraction Flowchart
+
+Below is a flowchart that illustrates the account abstraction process:
+
+![Account Abstraction Flowchart](img/AA_FlowChart.png)
+
 ## Project Structure
 
 ```
