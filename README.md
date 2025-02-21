@@ -20,7 +20,7 @@ Both implementations demonstrate:
 
 Below is a flowchart that illustrates the account abstraction process:
 
-![Account Abstraction Flowchart](img/AA_FlowChart.png)
+![Account Abstraction Flowchart](img/AA_FlowChart4.png)
 
 ## Project Structure
 
