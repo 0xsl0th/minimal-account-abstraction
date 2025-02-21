@@ -1,6 +1,9 @@
 # Compiler files
 cache/
 out/
+.github/
+
+zkout/
 
 # Ignores development broadcast logs
 !/broadcast
@@ -12,3 +15,5 @@ docs/
 
 # Dotenv file
 .env
+
+.gitmodules

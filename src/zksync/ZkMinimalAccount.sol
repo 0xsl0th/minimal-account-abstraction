@@ -2,7 +2,7 @@
 pragma solidity ^0.8.24;
 
 // zkSync Era Imports
-import {ZkMinimalAccount} from "src/zksync/ZkMinimalAccount.sol";
+import {ZkMinimalAccount} from "../zksync/ZkMinimalAccount.sol";
 import {
     IAccount,
     ACCOUNT_VALIDATION_SUCCESS_MAGIC
